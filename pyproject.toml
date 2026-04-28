@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mind-garden"
+version = "0.1.0"
+description = "个人知识库助手 — 将 Markdown 笔记转化为可语义搜索和 AI 对话的私有知识库"
+readme = "README.md"
+requires-python = ">=3.11"
+
+dependencies = [
+    "typer>=0.12.0",
+    "rich>=13.7.0",
+    "markdown-it-py>=3.0.0",
+    "sentence-transformers>=2.2.0",
+    "chromadb>=0.4.0",
+    "openai>=1.0.0",
+]
+
+[project.scripts]
+mind-garden = "mind_garden.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]
