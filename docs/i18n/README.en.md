@@ -1,9 +1,5 @@
 <h1 align="center">mind-garden</h1>
 
-<p align="center">
-  <a href="../../README.md">中文</a> | <a href="README.en.md">English</a>
-</p>
-
 > Transform local Markdown notes into a private, searchable, AI-chat-ready knowledge base
 
 <p align="center">
@@ -13,6 +9,12 @@
   <img src="https://img.shields.io/github/languages/count/ChenYiming-aaa/mind-garden" alt="languages" />
   <img src="https://img.shields.io/github/languages/code-size/ChenYiming-aaa/mind-garden" alt="code size" />
 </p>
+
+<p align="center">
+  <a href="../../README.md">中文</a> · <b>English</b>
+</p>
+
+---
 
 ## Features
 
