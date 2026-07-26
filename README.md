@@ -1,16 +1,18 @@
-# mind-garden
+<h1 align="center">mind-garden</h1>
 
-<p align="right">
+<p align="center">
   <a href="README.md">中文</a> | <a href="docs/i18n/README.en.md">English</a>
 </p>
 
 > 个人知识库助手 — 将本地 Markdown 笔记转化为可语义搜索和 AI 对话的私有知识库
 
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
-![license](https://img.shields.io/badge/license-MIT-blue)
-![last commit](https://img.shields.io/github/last-commit/ChenYiming-aaa/mind-garden)
-![languages](https://img.shields.io/github/languages/count/ChenYiming-aaa/mind-garden)
-![code size](https://img.shields.io/github/languages/code-size/ChenYiming-aaa/mind-garden)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/license-MIT-blue" alt="license" />
+  <img src="https://img.shields.io/github/last-commit/ChenYiming-aaa/mind-garden" alt="last commit" />
+  <img src="https://img.shields.io/github/languages/count/ChenYiming-aaa/mind-garden" alt="languages" />
+  <img src="https://img.shields.io/github/languages/code-size/ChenYiming-aaa/mind-garden" alt="code size" />
+</p>
 
 ## 功能特性
 
