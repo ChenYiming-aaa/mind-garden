@@ -1,12 +1,10 @@
-<p align="center">
-  <strong>🌐 Language / 语言</strong><br>
+# mind-garden
+
+<p align="right">
   <a href="#english">English</a> | <a href="#chinese">中文</a>
 </p>
 
----
-
 <a id="english"></a>
-# mind-garden
 
 > Transform local Markdown notes into a private, searchable, AI-chat-ready knowledge base
 
